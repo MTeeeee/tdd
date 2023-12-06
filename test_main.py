@@ -4,7 +4,7 @@ import main as main
 
 def test_addition():
     result = main.addition(2, 2)
-    assert result == 4
+    assert result == 5
 
 
 def test_upper_case():
